@@ -18,9 +18,7 @@ head{
 			100%{background-position: 0 50%;}
 		}
 }
-body{
-    background: #F0F3F4;
-}
+
 .mapadiv{
     width: 90%;
     margin: auto;
